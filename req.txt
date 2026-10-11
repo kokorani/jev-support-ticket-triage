@@ -1,0 +1,6 @@
+python-dotenv
+typesafe-sdk
+pandas
+streamlit
+sqlalchemy
+pymysql
