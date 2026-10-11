@@ -2,6 +2,10 @@
 
 A Streamlit app that uses **Jev** (TypeSafe AI) to triage support tickets. Jev picks a team, severity and urgency for each ticket. Tickets Jev is confident about are auto-routed, and the rest go to a review queue where a person approves or corrects them. Every decision is saved to MySQL as labeled data.
 
+<img width="1460" height="867" alt="Image" src="https://github.com/user-attachments/assets/6f045e51-ba78-4db0-adce-95ddae2dc103" />
+
+<img width="1462" height="914" alt="Image" src="https://github.com/user-attachments/assets/27cf5d87-91fb-41d1-a771-f8a599d72c13" />
+
 ## Files
 
 | File | Purpose |
